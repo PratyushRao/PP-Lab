@@ -1,3 +1,4 @@
+#Define a function that adds two numbers and print result
 def add(a,b):
     print("Sum is: ",a+b)
 

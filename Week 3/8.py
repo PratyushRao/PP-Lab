@@ -1,3 +1,4 @@
+#Function to find simple interest by taking user input
 def SI(p,r,t):
     print("SI is: ", p*r*t/100)
 

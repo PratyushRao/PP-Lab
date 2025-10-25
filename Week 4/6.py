@@ -1,4 +1,4 @@
-#WAP to convert alternate characters in a string to capital letters
+#Convert alternate characters in a string to capital letters
 
 s = input("Enter a string: ")
 sn=""

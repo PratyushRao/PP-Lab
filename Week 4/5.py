@@ -1,4 +1,4 @@
-#WAP to print all prime numbers till 0-100
+#Print all prime numbers till 0-100
 
 def checkPrime(n:int):
     for i in range(2,n):

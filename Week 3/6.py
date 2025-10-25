@@ -1,3 +1,4 @@
+#Print a * patttern
 def prt_str(rows):
     for i in range(rows):
         print("*"*(i+1))

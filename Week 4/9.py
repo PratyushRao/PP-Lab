@@ -1,4 +1,4 @@
-#WAP to find occurence of given number in list
+#Find occurence of given number in list
 
 l = [1,2,4,2,23,23,3]
 

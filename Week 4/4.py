@@ -1,4 +1,4 @@
-#WAP to print factorial of a given number
+#Print factorial of a given number
 
 def fact(n: int):
     if n==0:

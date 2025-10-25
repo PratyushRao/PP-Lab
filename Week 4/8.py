@@ -1,4 +1,4 @@
-#WAP to read a sentence & print the longest word in that sentence
+#Read a sentence & print the longest word in that sentence
 
 s=input("Enter a sentence: ")
 

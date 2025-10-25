@@ -1,3 +1,4 @@
+#Count vowels in a word
 def count_vowels(word: str):
     vowels = "aeiouAEIOU"
     cnt=0

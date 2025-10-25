@@ -1,4 +1,4 @@
-#WAP to read a char from user & check if its a vowel or consonent. Print vowel/ consonent
+#Read a char from user & check if its a vowel or consonent. Print vowel/ consonent
 
 ch = input("Enter a char: ")
 
