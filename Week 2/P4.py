@@ -8,4 +8,7 @@ while attempts<3:
     else:
         print("Try Again!!")
     attempts+=1
-    
+
+
+if (attempts>=3):
+    print("Too many incorrect attempts!!!")
